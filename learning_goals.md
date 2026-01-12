@@ -1,0 +1,5 @@
+- From this internship I hope to learn more about and experience how cybersecurity is integrated into a real company setting, in doing so I hope to gain a deeper understanding and further develop myself in a cybersecurity role.
+- I am most excited to develop skills relevant to analysis, risk mitigation strategies, incident response and gaining familiarity with tool usage.
+- I have knowledge of cybersecurity concepts and some familiarity with security analysis tools, I am also confident in my ability to think analytically and my attention to detail. I believe I can be an asset and contribute to efforts of securing the team and client's data.
+- I am less confident in collaborative work especially with other teams, I hope to improve my ability to do so during this internship.
+- To me, a successful internship would involve personal growth and learning and to have made meaningful contributions to the company.
