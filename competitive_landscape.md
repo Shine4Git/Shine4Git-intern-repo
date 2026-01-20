@@ -1,0 +1,4 @@
+- Focus Bear combines blocking features and routine/habit forming features from the other apps into one app, additionally it has features that dynamically and adaptively block and recommend breaks.
+- A user might choose Focus Bear over competitors due to its ability to automatically recommend breaks, avoid interruptions during meetings and other important times and allow users flexibility with strictness around blockers and breaks.
+- A feature that other apps have that Focus Bear does not would be widgets on mobile to be aware of routines of when blocks are in place without checking the app.
+- One improvement Focus Bear could make would be an in-app guide for new users to help them better understand the app and its features.
