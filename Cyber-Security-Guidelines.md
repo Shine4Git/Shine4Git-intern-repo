@@ -7,7 +7,15 @@ Research & Learn
 - 2FA is important as it introduces additional layers of security for accessing accounts. As credentials may be stolen or lost 2FA seeks to verify the accessor's identity by further checks, usually something they know (email), have (SMS) or are (biometrics).
 
 Reflection
-- I lock my devices when away from them, do not respond to phishing attempts, use strong passwords avoiding reuse and use 2FA. I could improve by making use of a password manager.
+- I lock my devices when away from them, do not respond to phishing attempts, use strong passwords avoiding reuse and using 2FA, and make use of a password manager.
 - To create habits around secure behaviour one should make efforts to check their behaviour and evaluate whether it is improving their security, staying aware and thinking about how secure their information is helps with forming the habits.
 - Use complex passwords, 2FA and password managers. Avoid credential reuse and insecure networks, stay aware of phishing attempts.
 - Report the incident to the cybersecurity teams so that the account may be quarantined and investigated.
+
+Tasks
+- Github work account has 2FA enabled:
+<img width="1069" height="895" alt="image" src="https://github.com/user-attachments/assets/524657c4-2cf9-4da1-93df-dfec05f2c5cb" />
+
+- I confirm I am using a password manager that stores my passwords locally on my device in an encrypted state.
+- My laptop auto locks after 5 minutes or immediately when the lid is shut, my mobile auto locks after 2 minutes or immediately when closed.
+- One security habit I will follow when working at Focus Bear is to ensure my devices are locked when unattended in a public space, I will track this by checking my workspace for devices I am leaving unattended and verify that they are locked.
