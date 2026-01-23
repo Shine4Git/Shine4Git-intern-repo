@@ -7,3 +7,9 @@ Research & Learn
 Reflection
 - Kanban helps manage priorities and avoid overload by clearly communicating tasks and what is being worked on keeping things focused.
 - I can improve my workflow using Kanban principles as it will help define my tasks and their progress.
+
+Tasks
+- I have created a Kanban board in this repo with relevant columns, added the onboarding issues to it and moved them accordingly.
+<img width="1792" height="660" alt="image" src="https://github.com/user-attachments/assets/4cba0a63-f108-4422-884e-61126d6573f2" />
+
+- I can improve task tracking in my role by assigning priority to tasks and sorting through them weekly.
