@@ -12,3 +12,5 @@ Reflection
 Tasks
 - I tried adjusting my chair height and monitor so that my posture and the angle of my head were more ergonomic which should reduce discomfort and the risk of injury.
 - I tried using reminder tools for posture and movement and found there was some benefit to reducing discomfort.
+
+![Focus Bear OHS Reminder](https://github.com/user-attachments/assets/0bfb1fd8-7562-410e-8fdb-e7feafe1147c)
